@@ -1,0 +1,5 @@
+
+INSERT INTO TRAINER
+VALUES ('Tony Walls', 'Narve Lane', '02490318255');
+
+SELECT * FROM TRAINER;
